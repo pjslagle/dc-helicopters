@@ -24,7 +24,7 @@ Some of the heliports within the District of Columbia include:
 
 ## Flight Paths 
 
-The [Helicopter Route Chart - Washington/Baltimore](https://aeronav.faa.gov/content/aeronav/heli_files/PDFs/Balt-Wash_Heli_14_P.pdf), published by the FAA, provides a wealth of detail about helicopter activity in and around DC.  
+The [Helicopter Route Chart - Washington/Baltimore](https://aeronav.faa.gov/visual/09-08-2022/pdfs/Balt-Wash_Heli.pdf), published by the FAA, provides a wealth of detail about helicopter activity in and around DC.  
 
 ## Other Reads
 
